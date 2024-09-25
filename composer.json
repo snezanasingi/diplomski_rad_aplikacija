@@ -1,0 +1,11 @@
+{
+    "name": "sneza/project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+      "ext-mysqli": "*"
+    }
+}
